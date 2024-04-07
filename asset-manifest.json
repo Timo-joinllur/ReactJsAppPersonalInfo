@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactJsAppPersonalInfo/static/css/main.d0e01452.css",
+    "main.js": "/ReactJsAppPersonalInfo/static/js/main.26cd446b.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/ReactJsAppPersonalInfo/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/Timofei_Beresnev.jpg": "/ReactJsAppPersonalInfo/static/media/Timofei_Beresnev.49d2fce4301e293951b2.jpg",
+    "static/media/Basic_Game.jpg": "/ReactJsAppPersonalInfo/static/media/Basic_Game.3605cbce34b24f551040.jpg",
+    "static/media/Robot.jpg": "/ReactJsAppPersonalInfo/static/media/Robot.d31188e293e996d60810.jpg",
+    "index.html": "/ReactJsAppPersonalInfo/index.html",
+    "main.d0e01452.css.map": "/ReactJsAppPersonalInfo/static/css/main.d0e01452.css.map",
+    "main.26cd446b.js.map": "/ReactJsAppPersonalInfo/static/js/main.26cd446b.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/ReactJsAppPersonalInfo/static/js/453.f4fbaa6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e01452.css",
+    "static/js/main.26cd446b.js"
+  ]
+}
