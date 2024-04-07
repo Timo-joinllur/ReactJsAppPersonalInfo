@@ -1,0 +1,44 @@
+.educationContainer {
+    background-color: #2e2e2e;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .educationTitle {
+    color: goldenrod; 
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .listGroupCustom {
+    border: none; 
+  }
+  
+  .listGroupItemCustom {
+    background-color: #3e3e3e;
+    color: wheat;
+    border-radius: 8px;
+    border-color: goldenrod;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+  
+  .institutionLink {
+    display: inline-block;
+    margin-top: 20px;
+    background-color: gold;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .institutionLink:hover {
+    background-color: goldenrod;
+    color: #000;
+    text-decoration: none;
+  }
+  

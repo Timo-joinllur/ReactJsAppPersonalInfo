@@ -1,0 +1,36 @@
+/* PersonalInfo.module.css */
+.containerCustom {
+  background-color: #2e2e2e; /* A light grey background */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+.mpiTitle {
+  color: goldenrod; 
+  margin-bottom: 20px;
+  text-align: center;
+}
+.listGroupItemCustom {
+  border: none; 
+  background-color: #3e3e3e;
+  border-radius: 8px;
+  border-color: goldenrod;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+.imageCustom {
+  width: 350px; /* Adjust the size as needed */
+  height: 350px; /* Adjust the size as needed */
+  object-fit: cover; /* Ensure the image covers the area nicely */
+  border: 3px solid goldenrod; /* A border color that matches Bootstrap's primary color */
+}
+
+.titleCustom {
+  color: goldenrod; /* Matching Bootstrap's primary color for consistency */
+  margin-bottom: 15px;
+}
+
+.textCustom {
+  font-size: 18px;
+  color: wheat;
+}
